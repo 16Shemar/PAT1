@@ -1,0 +1,10 @@
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\obj\Debug\AdminForm.Form1.resources
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\obj\Debug\AdminForm.MainForm.resources
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\obj\Debug\AdminForm.Resources.resources
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\obj\Debug\AdminForm.vbproj.GenerateResource.Cache
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\bin\Debug\AdminForm.exe
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\bin\Debug\AdminForm.pdb
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\bin\Debug\AdminForm.xml
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\obj\Debug\AdminForm.exe
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\obj\Debug\AdminForm.xml
+C:\Users\Lwethu\AppData\Local\Temporary Projects\AdminForm\obj\Debug\AdminForm.pdb
